@@ -25,9 +25,9 @@ const Home = () => {
                 </div>
                 <div className="btn2">
                 <div className="txt2">
-                    <Link className="link" to='https://boisterous-crumble-1413b4.netlify.app/'>
+                    <a className="link" href='https://boisterous-crumble-1413b4.netlify.app/' target='_main'>
                       <p className="p2">Artify<span>AI</span></p>
-                    </Link>
+                    </a>
                         
                     
                        
@@ -42,10 +42,10 @@ const Home = () => {
             <div className="row2">
                 <div className="btn3">
                 <div className="txt2">
-                    <Link className="link" to='/verba'>
+                    <a className="link" href='/verba' target='_main'>
                        <p className="p2">Verba<span>AI</span></p>
 
-                    </Link>
+                    </a>
 
             
                     
