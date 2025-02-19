@@ -14,7 +14,11 @@ const Home = () => {
             <div className="row1">
                 <div className="btn1">
                     <div className="txt1">
-                        <p className="p1">Askify<span>AI</span></p>
+                    <a className="link" href='/askify' target='_main'>
+                    <p className="p1">Askify<span>AI</span></p>
+
+                    </a>
+                        
                     
                        
 
@@ -56,7 +60,12 @@ const Home = () => {
                 </div>
                 <div className="btn4">
                 <div className="txt2">
-                        <p className="p2">Currex<span>AI</span></p>
+                <a className="link" href='/currex' target='_main'>
+                  <p className="p2">Currex<span>AI</span></p>
+                   
+
+                </a>
+                        
                     
                        
 
