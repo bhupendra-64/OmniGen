@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import axios from 'axios'
 import './styles/askify.css'
+import { useEffect } from 'react'
 
 
 

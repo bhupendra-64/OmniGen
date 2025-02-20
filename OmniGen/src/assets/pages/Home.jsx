@@ -29,7 +29,7 @@ const Home = () => {
                 </div>
                 <div className="btn2">
                 <div className="txt2">
-                    <a className="link" href='https://boisterous-crumble-1413b4.netlify.app/' target='_main'>
+                    <a className="link" href='https://sparkling-pika-7e160e.netlify.app/' target='_main'>
                       <p className="p2">Artify<span>AI</span></p>
                     </a>
                         
