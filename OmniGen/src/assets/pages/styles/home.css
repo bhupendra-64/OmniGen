@@ -5,7 +5,7 @@
 .main{
     height: 100vh;
     width: 100vw;
-    background-color: aqua;
+    background:linear-gradient(45deg,#252424,#44546b);
     display: flex;
     align-items: center;
     justify-content: center;
