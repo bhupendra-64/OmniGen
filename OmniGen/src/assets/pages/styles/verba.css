@@ -1,0 +1,7 @@
+#main3{
+    color: aliceblue;
+    height: 100vh;
+    width: 100vw;
+    background-image: url("./public/Icon.jpg");
+    background-size: contain;
+}

@@ -1,10 +1,11 @@
 import React from 'react'
+import './styles/verba.css'
 
 
 
 const Verba = () => {
   return (
-    <div>
+    <div id='main3'>
       <h1> Comming very soon......</h1>
       <p> For any query contact below:-</p>
       <br />
