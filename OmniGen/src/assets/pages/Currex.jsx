@@ -2,7 +2,12 @@ import React from 'react'
 
 const Currex = () => {
   return (
-    <div>Currex</div>
+    <div>
+      <h1> Comming very soon.....</h1>
+      <p> For any query contact below:-</p>
+      <br />
+      <p> ig:- sachinnnn_64</p>
+    </div>
   )
 }
 
