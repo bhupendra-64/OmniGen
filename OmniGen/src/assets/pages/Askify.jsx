@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import axios from 'axios'
+import './styles/askify.css'
 
 
 
@@ -23,16 +24,23 @@ const Askify = () => {
   
   return (
     <>
-    <div className="main">
+    <div className="main1">
       <div className="head">
         <h1>Askify<span>AI</span></h1>
+        <p>Powered by <span>Gemini 2.0</span></p>
       </div>
-    <textarea  value={question} onChange={(e)=>{
+      <div className="text">
+      <textarea className='textarea1' value={question} placeholder='write your prompt here.....' onChange={(e)=>{
       setquestion(e.target.value)
 
     }}rows="10" cols="50"></textarea>
+
+    
+     <textarea className='textarea2' value= {answer} rows="10" cols="50"></textarea> 
+
+      </div>
+    
     <button onClick={answers}>Generate Answer</button>
-    <p> {answer}</p>
       
     </div>
    
