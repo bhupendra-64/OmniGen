@@ -33,6 +33,8 @@ const Askify = () => {
       <div className="text">
       <textarea className='textarea1' value={question} placeholder='write your prompt here.....' onChange={(e)=>{
       setquestion(e.target.value)
+      
+
 
     }}rows="10" cols="50"></textarea>
 
@@ -41,7 +43,7 @@ const Askify = () => {
 
       </div>
     
-    <button onClick={answers}>Generate Answer</button>
+    <button onClick={answers} >Generate Answer</button>
       
     </div>
    
