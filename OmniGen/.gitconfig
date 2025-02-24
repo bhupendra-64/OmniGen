@@ -1,0 +1,17 @@
+[user]
+    name = bhupendra pratap singh
+    email = bhupendras.ug24.ce@nitp.ac.in
+
+[core]
+    autocrlf = input
+    editor = code --wait
+
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
+    lg = log --oneline --graph --decorate --all
+
+[submodule]
+    recurse = true
