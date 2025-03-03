@@ -77,9 +77,20 @@ const Home = () => {
 
 
         </div>
+      <div className="bottom">
+        
+
+        <br /> <br />  <br /> <hr /> <br /> <br /> 
+        <a id="contact" href='https://contact-us-omenigen.netlify.app/' target='_main'>Contact Us</a>
+        <br /> 
+        <br /> 
+        <p id="rights"> © 2029 OmniGen india Ltd. All Rights Resevered. </p>
+      
+      </div>
         
 
     </div>
+   
    
     </>
   )
