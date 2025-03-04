@@ -156,7 +156,7 @@ p{
         flex-direction: column;
     }
     .btn1{
-        height: 25%;
+        height: 20%;
         width: 80%;
     }
     .p1{
@@ -164,7 +164,7 @@ p{
         color:white;
     }
     .btn2{
-        height: 25%;
+        height: 20%;
         width: 80%;
     }
     .p2{
@@ -172,7 +172,7 @@ p{
         color:white;
     }
     .btn3{
-        height: 25%;
+        height: 20%;
         width: 80%;
     }
     .p3{
@@ -181,7 +181,7 @@ p{
 
     }
     .btn4{
-        height: 25%;
+        height: 20%;
         width: 80%;
     }
     .p4{
@@ -202,7 +202,7 @@ p{
     color: white;
     padding-top: 20px;
     text-decoration: none;
-    font-weight: bold;
+    
     font-size: larger;
 }
 #rights{
@@ -211,6 +211,8 @@ p{
 #contact:hover{
     text-decoration: underline;
 }
+
+
 
 
 
