@@ -81,7 +81,7 @@ const Home = () => {
         
 
         <br /> <br />  <br /> <hr /> <br /> <br /> 
-        <a id="contact" href='https://contact-us-omenigen.netlify.app/' target='_main'>Your Query </a>
+        <a id="contact" href='https://contact-us-omnigen.netlify.app/' target='_main'>Your Query </a>
         <a id="contact" href='https://www.instagram.com/sachinnnn_64?igsh=YTRiYjI1ZTh4dHdi' target='_main'>   | Contact Us</a>
         <br /> 
         <br /> 
